@@ -1,2 +1,2 @@
 # Blog
-Blog app developed with django 3 html css and js.
+Blog app developed with django3 html css and js.
